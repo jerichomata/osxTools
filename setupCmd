@@ -1,0 +1,25 @@
+# 11/5/20
+# cur_version 10.15.7 Catalina
+
+logi-options
+hyperswitch
+xcode-select --install
+brew update
+brew cask install iterm2
+brew install bash # latest version
+brew install fortune
+brew install git
+brew cask install magnet
+brew cask install alfred # spotlight search, change cmd+shift 
+brew cask isntall bartender2
+brew cask install karibiner 
+  # bind r_shft+esc to tilde
+  # bind caps to backslash
+  # bind l_cmd+h,j,k,l to left,up,down,right
+brew cask install theide
+brew cask install calenderPop
+brew cask install edge
+brew cask install visual-studio-code
+  # keybindings
+  # extensions
+  
