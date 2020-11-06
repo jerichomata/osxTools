@@ -1,17 +1,14 @@
 # 11/5/20
 # cur_version 10.15.7 Catalina
 
-logi-options
-hyperswitch
-istatmenus6
-
-xcode-select --install
+xcode-select --install # osX10.15 must install command line tools apple
 brew update
+brew cask install logi-options
+brew cask install hyperswitch
 brew cask install iterm2
-brew install bash # latest version
 brew install fortune
 brew install git
-brew cask install magnet
+brew cask install magnet # not working
 brew cask install alfred # spotlight search, change cmd+shift 
 brew cask isntall bartender2
 brew cask install karibiner 
@@ -19,6 +16,7 @@ brew cask install karibiner
   # bind caps to backslash
   # bind l_cmd+h,j,k,l to left,up,down,right
 brew cask install theine
+brew cask install hyperswitch
 brew cask install edge
 brew cask install visual-studio-code
   # keybindings
