@@ -24,4 +24,5 @@ brew cask install visual-studio-code
 
 test push
 test push_2
-  
+
+tesst pull_server
