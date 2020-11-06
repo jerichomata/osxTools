@@ -22,4 +22,5 @@ brew cask install visual-studio-code
   # keybindings
   # extensions
 
+test push
   
