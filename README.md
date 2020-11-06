@@ -1,2 +1,2 @@
 # osxTools
-Backup after setup
+Using homebrew and initializing environment
